@@ -3,7 +3,7 @@
 
 // this file will be run with a script command in the terminal
 // we will set that script command up in package.json
-// the command will be 'npm run see'
+// the command will be 'npm run seed'
 
 const mongoose = require('mongoose')
 const Pet = require('./pet')
